@@ -27,10 +27,6 @@ The system was built to address a practical problem in Bangladesh, where agricul
 
 Rising food demand and shrinking water availability make efficient irrigation increasingly important. Manually watering a garden or field means either overwatering (wasting water, compacting soil, washing out nutrients) or underwatering (stressed or dying plants) — especially when nobody's available to check the soil at the right time. An automatic system reacts to the actual condition of the soil rather than a fixed schedule.
 
-| Circuit Setup | Serial Monitor Output |
-|---|---|
-| ![Circuit](docs/images/circuit-diagram.png) | ![Serial output](docs/images/serial-output.png) |
-
 ## How It Works
 
 ```mermaid
